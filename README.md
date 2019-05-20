@@ -15,7 +15,7 @@ Select the GCP project
 - Serverless Jenkins X Pipelines with Tekton
 
 
-See the env
+See the environment
 ```
 jx get env
 ```
